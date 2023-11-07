@@ -9,7 +9,7 @@ export const Project = () => {
                             <span className="my_project_text">
                                 <a href="https://oleg8995.github.io/Mogo/" target="_blanc" className="my_project_link">https://oleg8995.github.io/Mogo/</a>
                                 
-                                    .................
+                                    ..................
                                 
                                 <span>
                                    <span className="my_project_bracket">[</span> HTML5, CSS3, JavaScript <span className="my_project_bracket">]</span>
